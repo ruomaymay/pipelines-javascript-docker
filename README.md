@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/raboweb/Cloud%20Competence%20Center/_apis/build/status/ruomaymay.pipelines-javascript-docker%20(1)?branchName=main)](https://dev.azure.com/raboweb/Cloud%20Competence%20Center/_build/latest?definitionId=38726&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
